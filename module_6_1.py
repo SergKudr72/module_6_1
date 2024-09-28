@@ -26,7 +26,7 @@ class Predator(Animal):
     pass
 
 class Flower(Plant):
-    edible = False
+    pass
 
 class Fruit(Plant):
     edible = True
